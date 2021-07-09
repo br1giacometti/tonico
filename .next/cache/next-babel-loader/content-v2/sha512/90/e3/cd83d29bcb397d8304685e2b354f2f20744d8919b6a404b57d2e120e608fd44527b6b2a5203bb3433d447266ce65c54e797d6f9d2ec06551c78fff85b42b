@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  isDev: true\n};","map":{"version":3,"sources":["C:/Users/Bruno/Desktop/tienda/nextjs-shopify-master/config/env.ts"],"names":["isDev"],"mappings":"AAAA,eAAe;AACbA,EAAAA,KAAK;AADQ,CAAf","sourcesContent":["export default {\n  isDev: process.env.NODE_ENV === 'development',\n}\n"]},"metadata":{},"sourceType":"module"}

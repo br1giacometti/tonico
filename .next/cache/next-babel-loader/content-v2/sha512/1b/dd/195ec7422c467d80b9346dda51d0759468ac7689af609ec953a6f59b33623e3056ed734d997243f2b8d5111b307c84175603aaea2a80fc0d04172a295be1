@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { isCart } from './isCart';","map":{"version":3,"sources":["C:/Users/Bruno/Desktop/tienda/nextjs-shopify-master/lib/shopify/storefront-data-hooks/src/utils/types/index.ts"],"names":["isCart"],"mappings":"AAAA,SAASA,MAAT,QAAuB,UAAvB","sourcesContent":["export { isCart } from './isCart'\n"]},"metadata":{},"sourceType":"module"}

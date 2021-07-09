@@ -1,0 +1,5198 @@
+{
+  "./CollectionView": [
+    {
+      "id": "./blocks/CollectionView/CollectionView.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./blocks/ProductGrid/ProductGrid.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/cart/CartItem/CartItem.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/cart/CartItem/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/cart/CartSidebarView/CartSidebarView.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/cart/CartSidebarView/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/cart/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/FeatureBar.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/Head.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/Layout.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/Navbar.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/NoSSR.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/OptionPicker.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/ProductCard.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/ProductCardDemo.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/Searchbar.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/UntilInteraction.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/UserNav.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/common/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/ArrowLeft.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Bag.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Check.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/ChevronUp.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Cross.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/DoubleChevron.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Github.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Heart.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Info.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Minus.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Moon.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Plus.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/RightArrow.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Sun.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Trash.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/Vercel.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/icons/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/ImageCarousel.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/Link/Link.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/Link/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/Sidebar.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/context.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./components/ui/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./config/env.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./config/seo.json",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./config/shopify.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./config/theme.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/hooks/useAcceptCookies.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/CommerceProvider.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/Context.tsx",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/api/operations-builder.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useAddItemToCart.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useAddItemsToCart.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCart.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCartCount.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCartItems.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCheckoutUrl.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useClientUnsafe.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useGetLineItem.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useRemoveItemFromCart.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useRemoveItemsFromCart.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useSetCartUnsafe.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useUpdateItemQuantity.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/LocalStorage.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/keys.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/product.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/types/index.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/types/isCart.ts",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/nonIterableRest.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inherits.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/iterableToArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/nonIterableSpread.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/toConsumableArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@builder.io/widgets/dist/builder-widgets.es5.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@builder.io/widgets/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-element-4fbd89c5.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-react.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/isolated-hoist-non-react-statics-do-not-use-this-in-your-code/dist/emotion-react-isolated-hoist-non-react-statics-do-not-use-this-in-your-code.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/stylis/dist/stylis.mjs",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/package.json",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@mdx-js/react/dist/esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/dist/reach-auto-id.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/dist/reach-dialog.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/portal/dist/reach-portal.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/background/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/border/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/color/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/core/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/css/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/flexbox/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/grid/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/layout/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/position/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/shadow/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/space/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/typography/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/variant/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/color-modes/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/components/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/core/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/css/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/match-media/dist/theme-ui-match-media.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/mdx/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/parse-props/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-base/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-bootstrap/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-bulma/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-dark/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-deep/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-funk/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-future/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-polaris/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-roboto/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-sketchy/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-swiss/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-system/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-tailwind/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-tosh/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/presets/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/theme-provider/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/batch-processor/src/batch-processor.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/batch-processor/src/utils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/classnames/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/create-react-class/factory.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/create-react-class/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/deepmerge/dist/cjs.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/desandro-matches-selector/matches-selector.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/detect-node-es/esm/browser.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/browser-detector.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/collection-utils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/detection-strategy/object.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/detection-strategy/scroll.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/element-resize-detector.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/element-utils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/id-generator.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/id-handler.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/listener-handler.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/reporter.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/state-handler.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/MediaQuery.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/MediaQueryDispatch.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/QueryHandler.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/Util.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/ev-emitter/ev-emitter.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/fizzy-ui-utils/utils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/constants.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusInside.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusIsHidden.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusMerge.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusables.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/setFocus.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/sibling.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/solver.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/tabHook.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/DOMutils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/all-affected.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/array.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/correctFocus.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/firstFocus.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/is.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/parenting.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabOrder.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabUtils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabbables.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/get-nonce/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/get-size/get-size.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/imagesloaded/imagesloaded.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/js-cookie/src/js.cookie.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/json2mq/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash.debounce/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_DataView.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Hash.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_ListCache.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Map.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_MapCache.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Promise.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Set.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Stack.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Symbol.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Uint8Array.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_WeakMap.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_apply.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayEach.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayFilter.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayLikeKeys.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayMap.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayPush.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_assignValue.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_assocIndexOf.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseAssign.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseAssignIn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseAssignValue.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseClone.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseCreate.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseFlatten.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGetAllKeys.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGetTag.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsArguments.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsMap.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsNative.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsSet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsTypedArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseKeys.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseKeysIn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseRest.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseSetToString.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseSlice.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseTimes.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseToString.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseUnary.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseUnset.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_castPath.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneArrayBuffer.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneBuffer.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneDataView.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneRegExp.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneSymbol.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneTypedArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copyArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copyObject.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copySymbols.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copySymbolsIn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_coreJsData.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_createAssigner.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_customOmitClone.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_defineProperty.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_flatRest.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_freeGlobal.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getAllKeys.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getAllKeysIn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getMapData.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getNative.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getPrototype.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getRawTag.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getSymbols.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getSymbolsIn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getTag.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getValue.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashClear.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashDelete.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashGet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashHas.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashSet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_initCloneArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_initCloneByTag.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_initCloneObject.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isFlattenable.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isIndex.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isIterateeCall.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isKey.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isKeyable.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isMasked.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isPrototype.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheClear.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheDelete.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheGet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheHas.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheSet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheClear.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheDelete.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheGet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheHas.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheSet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_memoizeCapped.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeCreate.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeKeys.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeKeysIn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nodeUtil.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_objectToString.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_overArg.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_overRest.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_parent.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_root.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_setToString.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_shortOut.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackClear.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackDelete.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackGet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackHas.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackSet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stringToPath.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_toKey.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/_toSource.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/assign.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/constant.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/debounce.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/eq.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/flatten.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/identity.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArguments.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArrayLike.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isBuffer.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isFunction.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isLength.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isMap.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isObject.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isObjectLike.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isPlainObject.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isSet.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isSymbol.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/isTypedArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/keys.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/keysIn.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/last.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/lodash.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/memoize.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/now.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/omit.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/stubArray.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/stubFalse.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/toNumber.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/lodash/toString.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/masonry-layout/masonry.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next-seo/lib/next-seo.module.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/image.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/link.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/use-intersection.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./node_modules/react-spring-modal/styles.css",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp-context.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head-manager-context.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/side-effect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/to-base-64.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/server/image-config.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/head.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/image.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/link.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/next/router.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/outlayer/item.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/outlayer/outlayer.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/formats.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/parse.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/stringify.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/utils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/lib/index.es.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/AutoFocusInside.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Combination.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FocusGuard.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FreeFocusInside.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Lock.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/MoveFocusInside.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Trap.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/UI.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/medium.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/util.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-masonry-component/lib/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/component.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/constants.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/utils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/Combination.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/SideEffect.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/UI.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/handleScroll.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/medium.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/sidecar.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/arrows.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/default-props.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/dots.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/initial-state.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/inner-slider.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/slider.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/track.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/utils/innerSliderUtils.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/dist/module/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/node_modules/react-spring/web.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/styles.css",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/component.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/hook.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/singleton.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react/cjs/react-jsx-runtime.development.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/react/jsx-runtime.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/resize-observer-polyfill/dist/ResizeObserver.es.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/shopify-buy/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/string-convert/camel2hyphen.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/styled-system/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/theme-ui/dist/index.esm.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/assignRef.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/createRef.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/mergeRef.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/refToCallback.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/transformRef.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useMergeRef.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useRef.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useTransformRef.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/config.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/env.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/exports.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hoc.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hook.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/index.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/medium.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/renderProp.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/warning/warning.js",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./LazyImageCarousel": [
+    {
+      "id": "./components/ui/LazyImageCarousel.tsx",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/index.es.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "./ProductGrid": [
+    {
+      "id": "./blocks/ProductGrid/ProductGrid.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/cart/CartItem/CartItem.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/cart/CartItem/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/cart/CartSidebarView/CartSidebarView.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/cart/CartSidebarView/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/cart/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/FeatureBar.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/Head.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/Layout.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/Navbar.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/NoSSR.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/OptionPicker.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/ProductCard.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/ProductCardDemo.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/Searchbar.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/UntilInteraction.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/UserNav.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/common/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/ArrowLeft.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Bag.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Check.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/ChevronUp.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Cross.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/DoubleChevron.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Github.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Heart.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Info.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Minus.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Moon.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Plus.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/RightArrow.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Sun.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Trash.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/Vercel.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/icons/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/ImageCarousel.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/Link/Link.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/Link/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/Sidebar.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/context.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/ui/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./config/env.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./config/seo.json",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./config/shopify.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./config/theme.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/hooks/useAcceptCookies.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/CommerceProvider.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/Context.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/api/operations-builder.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useAddItemToCart.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useAddItemsToCart.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCart.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCartCount.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCartItems.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCheckoutUrl.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useClientUnsafe.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useGetLineItem.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useRemoveItemFromCart.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useRemoveItemsFromCart.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useSetCartUnsafe.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useUpdateItemQuantity.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/LocalStorage.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/keys.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/product.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/types/index.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/types/isCart.ts",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/nonIterableRest.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inherits.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/iterableToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/nonIterableSpread.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/toConsumableArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@builder.io/widgets/dist/builder-widgets.es5.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@builder.io/widgets/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-element-4fbd89c5.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-react.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/isolated-hoist-non-react-statics-do-not-use-this-in-your-code/dist/emotion-react-isolated-hoist-non-react-statics-do-not-use-this-in-your-code.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/stylis/dist/stylis.mjs",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/package.json",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@mdx-js/react/dist/esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/dist/reach-auto-id.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/dist/reach-dialog.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/portal/dist/reach-portal.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/background/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/border/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/color/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/core/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/css/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/flexbox/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/grid/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/layout/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/position/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/shadow/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/space/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/typography/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/variant/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/color-modes/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/components/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/core/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/css/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/match-media/dist/theme-ui-match-media.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/mdx/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/parse-props/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-base/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-bootstrap/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-bulma/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-dark/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-deep/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-funk/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-future/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-polaris/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-roboto/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-sketchy/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-swiss/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-system/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-tailwind/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/preset-tosh/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/presets/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/theme-provider/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/batch-processor/src/batch-processor.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/batch-processor/src/utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/classnames/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/create-react-class/factory.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/create-react-class/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/deepmerge/dist/cjs.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/desandro-matches-selector/matches-selector.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/detect-node-es/esm/browser.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/browser-detector.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/collection-utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/detection-strategy/object.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/detection-strategy/scroll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/element-resize-detector.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/element-utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/id-generator.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/id-handler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/listener-handler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/reporter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/element-resize-detector/src/state-handler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/MediaQuery.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/MediaQueryDispatch.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/QueryHandler.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/Util.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/enquire.js/src/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/ev-emitter/ev-emitter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/fizzy-ui-utils/utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/constants.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusInside.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusIsHidden.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusMerge.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusables.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/setFocus.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/sibling.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/solver.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/tabHook.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/DOMutils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/all-affected.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/array.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/correctFocus.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/firstFocus.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/is.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/parenting.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabOrder.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabUtils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabbables.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/get-nonce/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/get-size/get-size.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/imagesloaded/imagesloaded.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/js-cookie/src/js.cookie.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/json2mq/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.debounce/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_DataView.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Hash.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_ListCache.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Map.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_MapCache.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Promise.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Set.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Stack.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Symbol.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Uint8Array.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_WeakMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_apply.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayEach.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayFilter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayLikeKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayPush.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_assignValue.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_assocIndexOf.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseAssign.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseAssignIn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseAssignValue.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseClone.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseCreate.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseFlatten.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGetAllKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGetTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsArguments.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsNative.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsTypedArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseKeysIn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseRest.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseSetToString.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseSlice.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseTimes.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseToString.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseUnary.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseUnset.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_castPath.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneArrayBuffer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneBuffer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneDataView.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneRegExp.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneSymbol.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cloneTypedArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copyArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copyObject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copySymbols.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_copySymbolsIn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_coreJsData.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_createAssigner.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_customOmitClone.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_defineProperty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_flatRest.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_freeGlobal.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getAllKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getAllKeysIn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getMapData.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getNative.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getPrototype.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getRawTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getSymbols.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getSymbolsIn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getValue.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_initCloneArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_initCloneByTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_initCloneObject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isFlattenable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isIndex.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isIterateeCall.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isKey.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isKeyable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isMasked.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isPrototype.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_memoizeCapped.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeCreate.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeKeysIn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nodeUtil.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_objectToString.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_overArg.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_overRest.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_parent.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_root.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_setToString.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_shortOut.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stringToPath.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_toKey.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_toSource.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/assign.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/constant.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/debounce.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/eq.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/flatten.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/identity.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArguments.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArrayLike.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isBuffer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isFunction.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isLength.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isObject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isObjectLike.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isPlainObject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isSymbol.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isTypedArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/keys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/keysIn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/last.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/lodash.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/memoize.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/now.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/omit.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/stubArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/stubFalse.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/toNumber.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/toString.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/masonry-layout/masonry.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next-seo/lib/next-seo.module.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/image.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/link.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/use-intersection.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./node_modules/react-spring-modal/styles.css",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp-context.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head-manager-context.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/side-effect.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/to-base-64.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/server/image-config.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/head.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/image.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/link.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/router.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/outlayer/item.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/outlayer/outlayer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/formats.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/parse.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/stringify.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/lib/index.es.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/AutoFocusInside.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Combination.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FocusGuard.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FreeFocusInside.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Lock.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/MoveFocusInside.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Trap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/UI.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/medium.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/util.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-masonry-component/lib/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/component.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/constants.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/utils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/Combination.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/SideEffect.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/UI.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/handleScroll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/medium.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/sidecar.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/arrows.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/default-props.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/dots.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/initial-state.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/inner-slider.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/slider.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/track.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-slick/lib/utils/innerSliderUtils.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/dist/module/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/node_modules/react-spring/web.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/styles.css",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/component.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/hook.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/singleton.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react/cjs/react-jsx-runtime.development.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react/jsx-runtime.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/resize-observer-polyfill/dist/ResizeObserver.es.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/shopify-buy/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/string-convert/camel2hyphen.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/styled-system/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/theme-ui/dist/index.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/assignRef.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/createRef.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/mergeRef.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/refToCallback.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/transformRef.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useMergeRef.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useRef.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useTransformRef.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/config.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/env.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/exports.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hoc.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hook.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/medium.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/renderProp.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/warning/warning.js",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "blocks/ProductView/ProductView": [
+    {
+      "id": "./blocks/ProductView/ProductLoader.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./blocks/ProductView/ProductView.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/common/OptionPicker.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/common/UntilInteraction.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/ImageCarousel.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/Link/Link.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/Link/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/Sidebar.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/context.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./components/ui/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/CommerceProvider.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/Context.tsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/api/operations-builder.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useAddItemToCart.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useAddItemsToCart.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCart.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCartCount.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCartItems.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useCheckoutUrl.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useClientUnsafe.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useGetLineItem.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useRemoveItemFromCart.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useRemoveItemsFromCart.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useSetCartUnsafe.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/hooks/useUpdateItemQuantity.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/LocalStorage.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/LocalStorage/keys.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/product.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/types/index.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/types/isCart.ts",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/nonIterableRest.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inherits.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/iterableToArray.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/nonIterableSpread.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/toConsumableArray.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-element-4fbd89c5.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-react.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/isolated-hoist-non-react-statics-do-not-use-this-in-your-code/dist/emotion-react-isolated-hoist-non-react-statics-do-not-use-this-in-your-code.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/stylis/dist/stylis.mjs",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/package.json",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@mdx-js/react/dist/esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/dist/reach-auto-id.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/dist/reach-dialog.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/portal/dist/reach-portal.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/background/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/border/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/color/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/core/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/css/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/flexbox/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/grid/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/layout/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/position/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/shadow/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/space/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/typography/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/variant/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/color-modes/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/components/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/core/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/css/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/match-media/dist/theme-ui-match-media.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/mdx/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/parse-props/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/theme-provider/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/deepmerge/dist/cjs.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/detect-node-es/esm/browser.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/constants.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusInside.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusIsHidden.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusMerge.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusables.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/setFocus.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/sibling.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/solver.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/tabHook.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/DOMutils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/all-affected.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/array.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/correctFocus.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/firstFocus.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/is.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/parenting.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabOrder.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabUtils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabbables.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/get-nonce/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next-seo/lib/next-seo.module.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/image.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/link.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/use-intersection.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp-context.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head-manager-context.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/side-effect.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/to-base-64.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/server/image-config.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/head.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/image.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/link.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/formats.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/parse.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/stringify.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/lib/index.es.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/AutoFocusInside.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Combination.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FocusGuard.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FreeFocusInside.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Lock.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/MoveFocusInside.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Trap.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/UI.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/medium.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/util.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/component.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/constants.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/Combination.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/SideEffect.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/UI.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/handleScroll.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/medium.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/sidecar.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/dist/module/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/node_modules/react-spring/web.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/component.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/hook.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/singleton.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react/cjs/react-jsx-runtime.development.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react/jsx-runtime.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/shopify-buy/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/styled-system/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/theme-ui/dist/index.esm.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/assignRef.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/createRef.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/mergeRef.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/refToCallback.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/transformRef.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useMergeRef.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useRef.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useTransformRef.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/config.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/env.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/exports.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hoc.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hook.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/medium.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/renderProp.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/warning/warning.js",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "blocks/ProductView/ProductViewDemo": [
+    {
+      "id": "./blocks/ProductView/ProductLoader.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./blocks/ProductView/ProductViewDemo.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/common/OptionPicker.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/common/UntilInteraction.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/ImageCarousel.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/Link/Link.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/Link/index.ts",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/LoadingDots.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/LoadingDots/index.ts",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/Sidebar.tsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/Sidebar/index.ts",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/ui/index.ts",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/api/operations-builder.ts",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./lib/shopify/storefront-data-hooks/src/utils/product.ts",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inherits.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/iterableToArray.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/nonIterableSpread.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/toConsumableArray.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-element-4fbd89c5.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/dist/emotion-react.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/isolated-hoist-non-react-statics-do-not-use-this-in-your-code/dist/emotion-react-isolated-hoist-non-react-statics-do-not-use-this-in-your-code.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/sheet/dist/emotion-sheet.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/node_modules/stylis/dist/stylis.mjs",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/react/package.json",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@babel/runtime/helpers/extends.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/serialize/dist/emotion-serialize.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@emotion/styled/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@mdx-js/react/dist/esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/dist/reach-auto-id.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@reach/auto-id/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/dist/reach-dialog.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/portal/dist/reach-portal.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@reach/dialog/node_modules/@reach/utils/dist/reach-utils.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/background/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/border/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/color/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/core/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/css/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/flexbox/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/grid/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/layout/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/position/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/shadow/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/should-forward-prop/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/space/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/typography/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@styled-system/variant/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/color-modes/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/components/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/core/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/css/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/match-media/dist/theme-ui-match-media.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/mdx/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/parse-props/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@theme-ui/theme-provider/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/deepmerge/dist/cjs.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/detect-node-es/esm/browser.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/constants.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusInside.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusIsHidden.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusMerge.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/focusables.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/setFocus.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/sibling.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/solver.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/tabHook.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/DOMutils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/all-affected.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/array.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/correctFocus.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/firstFocus.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/is.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/parenting.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabOrder.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabUtils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/focus-lock/dist/es2015/utils/tabbables.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/get-nonce/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next-seo/lib/next-seo.module.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/image.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/link.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/use-intersection.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./components/ui/LoadingDots/LoadingDots.module.css",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp-context.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/amp.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head-manager-context.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/head.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/side-effect.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/to-base-64.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/server/image-config.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/head.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/image.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/link.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/formats.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/parse.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/stringify.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/qs/lib/utils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/lib/index.es.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-clientside-effect/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/AutoFocusInside.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Combination.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FocusGuard.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/FreeFocusInside.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Lock.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/MoveFocusInside.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/Trap.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/UI.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/medium.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-focus-lock/dist/es2015/util.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/component.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/constants.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll-bar/dist/es2015/utils.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/Combination.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/SideEffect.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/UI.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/handleScroll.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/medium.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/dist/es2015/sidecar.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-remove-scroll/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/dist/module/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-spring-modal/node_modules/react-spring/web.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/component.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/hook.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react-style-singleton/dist/es2015/singleton.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react/cjs/react-jsx-runtime.development.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/react/jsx-runtime.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/styled-system/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/theme-ui/dist/index.esm.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/assignRef.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/createRef.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/mergeRef.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/refToCallback.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/transformRef.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useMergeRef.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useRef.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-callback-ref/dist/es2015/useTransformRef.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/config.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/env.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/exports.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hoc.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/hook.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/medium.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/dist/es2015/renderProp.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-sidecar/node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/warning/warning.js",
+      "file": "static/chunks/3.js"
+    }
+  ]
+}

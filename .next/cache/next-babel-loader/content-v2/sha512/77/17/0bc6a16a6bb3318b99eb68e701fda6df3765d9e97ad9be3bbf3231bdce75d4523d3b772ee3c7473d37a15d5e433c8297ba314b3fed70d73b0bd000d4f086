@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './LoadingDots';","map":{"version":3,"sources":["C:/Users/Bruno/Desktop/tienda/nextjs-shopify-master/components/ui/LoadingDots/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,eAAxB","sourcesContent":["export { default } from './LoadingDots'\n"]},"metadata":{},"sourceType":"module"}
